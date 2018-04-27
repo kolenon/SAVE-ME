@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: fd60f78167b06d046b7e0f8994cd9392
+timeCreated: 1524073787
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fish2_Sprites_B-ward_0
+    21300002: fish2_Sprites_B-ward_1
+    21300004: fish2_Sprites_B-ward_2
+    21300006: fish2_Sprites_B-ward_3
+    21300008: fish2_Sprites_B-ward_4
+    21300010: fish2_Sprites_B-ward_5
+    21300012: fish2_Sprites_B-ward_6
+    21300014: fish2_Sprites_B-ward_7
+    21300016: fish2_Sprites_B-ward_8
+    21300018: fish2_Sprites_B-ward_9
+    21300020: fish2_Sprites_B-ward_10
+    21300022: fish2_Sprites_B-ward_11
+    21300024: fish2_Sprites_B-ward_12
+    21300026: fish2_Sprites_B-ward_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 365
+        width: 153
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 363
+        width: 144
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 363
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 365
+        width: 114
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 363
+        width: 91
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_5
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 363
+        width: 82
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 363
+        width: 62
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_7
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 360
+        width: 56
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 188
+        width: 74
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 189
+        width: 100
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 188
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 188
+        width: 130
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 189
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fish2_Sprites_B-ward_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 188
+        width: 161
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
